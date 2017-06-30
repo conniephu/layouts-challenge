@@ -1,0 +1,51 @@
+#wrapper {
+	width: 1000px;
+	margin: auto;
+}
+
+header {
+	width: 1000px;
+	height: 200px;
+	background: #eeeeee;
+	border: 1px solid black;
+	margin-top: 25px;
+
+}
+
+main {
+	width: 1000px;
+	height: 500px;
+	margin-top: 25px;
+
+}
+
+section {
+	background: #eeeeee;
+	border: 0.5px solid black;
+	width: 67%;
+	float: left;
+	position: relative;
+	margin top: 25px;
+	height: 500px;
+	float: left;
+}
+
+aside {
+	background: #eeeeee;
+	border: 1px solid black;
+	width: 30%;
+	height: 500px;
+	float: right;
+	position: relative;
+	margin top: 25px;
+}
+
+footer {
+	background: #eeeeee;
+	border: 0.5px solid black;
+	width: 1000px;
+	height: 200px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
